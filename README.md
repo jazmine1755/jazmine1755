@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on displaying more projects using java and c++
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on fun and exciting projects
+- 🤔 I’m looking for help with any feedback pertaining to my work
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have a dog named Luna!
+
 <!--
 **jazmine1755/jazmine1755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
